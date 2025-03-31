@@ -52,3 +52,12 @@ GRAPHICS = {
     'leftleg': [(140, 250), (90, 300)],
     'rightleg': [(140, 250), (190, 300)],
 }
+
+LISTA_PALABRA_PRUEBA = ['casa', 'gato']
+LISTA_PALABRAS = [
+    "casa", "perro", "gato", "mesa", "silla", "libro", "flor", "niño", "niña", "luz",
+    "agua", "sol", "luna", "cielo", "nube", "piedra", "puerta", "ventana", "camino", "carro",
+    "tren", "barco", "avión", "playa", "arena", "mar", "bosque", "árbol", "fruta", "pan",
+    "queso", "leche", "café", "taza", "plato", "cuchara", "tenedor", "cuchillo", "zapato", "camisa",
+    "pantalón", "sombrero", "reloj", "pared", "techo", "suelo", "espejo", "cuadro", "puente", "río"
+]
